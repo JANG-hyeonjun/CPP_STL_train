@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section_03_함수객체를이용한_Foreach", "Section_03_함수객체를이용한_Foreach\Section_03_함수객체를이용한_Foreach.vcxproj", "{0FF09567-5D5A-4CE5-848B-774D91D1514B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF09567-5D5A-4CE5-848B-774D91D1514B}.Debug|x64.ActiveCfg = Debug|x64
+		{0FF09567-5D5A-4CE5-848B-774D91D1514B}.Debug|x64.Build.0 = Debug|x64
+		{0FF09567-5D5A-4CE5-848B-774D91D1514B}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FF09567-5D5A-4CE5-848B-774D91D1514B}.Debug|x86.Build.0 = Debug|Win32
+		{0FF09567-5D5A-4CE5-848B-774D91D1514B}.Release|x64.ActiveCfg = Release|x64
+		{0FF09567-5D5A-4CE5-848B-774D91D1514B}.Release|x64.Build.0 = Release|x64
+		{0FF09567-5D5A-4CE5-848B-774D91D1514B}.Release|x86.ActiveCfg = Release|Win32
+		{0FF09567-5D5A-4CE5-848B-774D91D1514B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B62B5778-071C-4E69-9287-848B12C844CE}
+	EndGlobalSection
+EndGlobal
