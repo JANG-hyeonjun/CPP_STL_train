@@ -1,0 +1,6 @@
+﻿  Problem2.cpp
+C:\Users\cjstk\Desktop\git_hub\CPP_STL_train\chapter4_basic_CPP_Template\Problem2\Problem2\Problem2.cpp(29,34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\cjstk\Desktop\git_hub\CPP_STL_train\chapter4_basic_CPP_Template\Problem2\Problem2\Problem2.cpp(28): message : 클래스 템플릿 멤버 함수 'void Stack<int>::state_Stack(void)'을(를) 컴파일하는 중입니다.
+C:\Users\cjstk\Desktop\git_hub\CPP_STL_train\chapter4_basic_CPP_Template\Problem2\Problem2\Problem2.cpp(69): message : 컴파일되는 함수 템플릿 인스턴스화 'void Stack<int>::state_Stack(void)'에 대한 참조를 확인하세요.
+C:\Users\cjstk\Desktop\git_hub\CPP_STL_train\chapter4_basic_CPP_Template\Problem2\Problem2\Problem2.cpp(64): message : 컴파일되는 클래스 템플릿 인스턴스화 'Stack<int>'에 대한 참조를 확인하세요.
+  Problem2.vcxproj -> C:\Users\cjstk\Desktop\git_hub\CPP_STL_train\chapter4_basic_CPP_Template\Problem2\Debug\Problem2.exe
