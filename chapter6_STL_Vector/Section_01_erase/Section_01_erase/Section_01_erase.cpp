@@ -12,6 +12,10 @@ int main()
 		vec.emplace_back((idx + 1) * 10);
 	}
 
+	std::vector<int>::iterator iter;
+	std::vector<int>::iterator iter2;
+		
+
 
 }
 
