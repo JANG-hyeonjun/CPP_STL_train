@@ -15,8 +15,11 @@ int main()
 	std::vector<int>::iterator iter;
 	std::vector<int>::iterator iter2;
 		
-
-
+	for (iter = vec.begin(); iter != vec.end(); ++iter)
+	{
+		std::cout << *iter << " ";
+	}
+	std::cout << std::endl;
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
