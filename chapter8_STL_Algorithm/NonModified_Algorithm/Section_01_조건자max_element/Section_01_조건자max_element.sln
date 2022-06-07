@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section_01_조건자max_element", "Section_01_조건자max_element\Section_01_조건자max_element.vcxproj", "{176A06F0-38BD-4586-BF2B-FBAEFFA289DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{176A06F0-38BD-4586-BF2B-FBAEFFA289DA}.Debug|x64.ActiveCfg = Debug|x64
+		{176A06F0-38BD-4586-BF2B-FBAEFFA289DA}.Debug|x64.Build.0 = Debug|x64
+		{176A06F0-38BD-4586-BF2B-FBAEFFA289DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{176A06F0-38BD-4586-BF2B-FBAEFFA289DA}.Debug|x86.Build.0 = Debug|Win32
+		{176A06F0-38BD-4586-BF2B-FBAEFFA289DA}.Release|x64.ActiveCfg = Release|x64
+		{176A06F0-38BD-4586-BF2B-FBAEFFA289DA}.Release|x64.Build.0 = Release|x64
+		{176A06F0-38BD-4586-BF2B-FBAEFFA289DA}.Release|x86.ActiveCfg = Release|Win32
+		{176A06F0-38BD-4586-BF2B-FBAEFFA289DA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {190C451D-D845-4AD3-94BB-417DFC2406D2}
+	EndGlobalSection
+EndGlobal
