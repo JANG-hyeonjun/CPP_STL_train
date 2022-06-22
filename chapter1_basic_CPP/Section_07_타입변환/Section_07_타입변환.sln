@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section_07_타입변환", "Section_07_타입변환\Section_07_타입변환.vcxproj", "{A0800CD6-26E7-425C-8925-E3DB9BF2C99A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0800CD6-26E7-425C-8925-E3DB9BF2C99A}.Debug|x64.ActiveCfg = Debug|x64
+		{A0800CD6-26E7-425C-8925-E3DB9BF2C99A}.Debug|x64.Build.0 = Debug|x64
+		{A0800CD6-26E7-425C-8925-E3DB9BF2C99A}.Debug|x86.ActiveCfg = Debug|Win32
+		{A0800CD6-26E7-425C-8925-E3DB9BF2C99A}.Debug|x86.Build.0 = Debug|Win32
+		{A0800CD6-26E7-425C-8925-E3DB9BF2C99A}.Release|x64.ActiveCfg = Release|x64
+		{A0800CD6-26E7-425C-8925-E3DB9BF2C99A}.Release|x64.Build.0 = Release|x64
+		{A0800CD6-26E7-425C-8925-E3DB9BF2C99A}.Release|x86.ActiveCfg = Release|Win32
+		{A0800CD6-26E7-425C-8925-E3DB9BF2C99A}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE2669B7-2B2D-4D76-AC53-A309582C3B60}
+	EndGlobalSection
+EndGlobal

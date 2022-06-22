@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Section_02_transform()알고리즘반환자", "Section_02_transform()알고리즘반환자\Section_02_transform()알고리즘반환자.vcxproj", "{D32DCD86-E8D5-4431-ACD7-A6968F088773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D32DCD86-E8D5-4431-ACD7-A6968F088773}.Debug|x64.ActiveCfg = Debug|x64
+		{D32DCD86-E8D5-4431-ACD7-A6968F088773}.Debug|x64.Build.0 = Debug|x64
+		{D32DCD86-E8D5-4431-ACD7-A6968F088773}.Debug|x86.ActiveCfg = Debug|Win32
+		{D32DCD86-E8D5-4431-ACD7-A6968F088773}.Debug|x86.Build.0 = Debug|Win32
+		{D32DCD86-E8D5-4431-ACD7-A6968F088773}.Release|x64.ActiveCfg = Release|x64
+		{D32DCD86-E8D5-4431-ACD7-A6968F088773}.Release|x64.Build.0 = Release|x64
+		{D32DCD86-E8D5-4431-ACD7-A6968F088773}.Release|x86.ActiveCfg = Release|Win32
+		{D32DCD86-E8D5-4431-ACD7-A6968F088773}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CED9D1BF-4C9A-4874-8E17-45950460EC11}
+	EndGlobalSection
+EndGlobal

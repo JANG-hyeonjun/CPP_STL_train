@@ -79,13 +79,13 @@ int main()
 
 	
 	int arr[2][3] = { 1,2,3,4,5,6 };
-	int(*parr)[3] = (arr + 1);
+	int(*parr)[3] = (arr);
 	printf("%p\n", arr);
 	printf("%p\n", *arr);
 	std::cout << arr + 1 << std::endl;
 	//arr[1] 은 두번째 부분배열의 주소 
 	std::cout << *(arr + 1)[0] << std::endl;
-	std::cout << (*(parr - 1))[0] << std::endl;
+	std::cout << (*(parr))[0] << std::endl;
 	//*(arr + 1) == arr[1]
 
 	//이것의 원리가 위와 동일한 것
