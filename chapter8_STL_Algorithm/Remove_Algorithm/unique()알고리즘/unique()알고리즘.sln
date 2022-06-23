@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "unique()알고리즘", "unique()알고리즘\unique()알고리즘.vcxproj", "{8A75F287-C199-4CD2-9C86-659871BD24C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A75F287-C199-4CD2-9C86-659871BD24C1}.Debug|x64.ActiveCfg = Debug|x64
+		{8A75F287-C199-4CD2-9C86-659871BD24C1}.Debug|x64.Build.0 = Debug|x64
+		{8A75F287-C199-4CD2-9C86-659871BD24C1}.Debug|x86.ActiveCfg = Debug|Win32
+		{8A75F287-C199-4CD2-9C86-659871BD24C1}.Debug|x86.Build.0 = Debug|Win32
+		{8A75F287-C199-4CD2-9C86-659871BD24C1}.Release|x64.ActiveCfg = Release|x64
+		{8A75F287-C199-4CD2-9C86-659871BD24C1}.Release|x64.Build.0 = Release|x64
+		{8A75F287-C199-4CD2-9C86-659871BD24C1}.Release|x86.ActiveCfg = Release|Win32
+		{8A75F287-C199-4CD2-9C86-659871BD24C1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F08FB64D-9E0B-44E8-BC81-A5B58CE9820E}
+	EndGlobalSection
+EndGlobal
