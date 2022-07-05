@@ -76,6 +76,32 @@ int main()
 	std::cout << std::prev_permutation(vec.begin(), vec.end(), Pred) << std::endl;
 	std::cout << "v: " << vec[0] << " " << vec[1] << " " << vec[2] << std::endl;
 
+
+	std::vector<int> vec2;
+	vec2.emplace_back(0);
+	vec2.emplace_back(0);
+	vec2.emplace_back(1);
+	vec2.emplace_back(1);
+	
+	std::sort(vec2.begin(), vec2.end(),std::greater<int>());
+	
+	for (auto it = vec2.begin(); it != vec2.end(); ++it)
+	{
+		std::cout << *it << " ";
+	}
+	std::cout << std::endl;
+	
+	while (std::prev_permutation(vec2.begin(), vec2.end()))
+	{
+		for (auto it = vec2.begin(); it != vec2.end(); ++it)
+		{
+			std::cout << *it << " ";
+		}
+		std::cout << std::endl;
+	}
+
+
+	
 	return 0;
 }
 
